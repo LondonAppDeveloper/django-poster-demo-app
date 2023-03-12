@@ -2,7 +2,9 @@
 
 Django project that contains a simple app that allows users to post content to a web page.
 
-This project supports the following:
+The purpose of this project is to provide students with a simple working Django app in order to demonstrate deployment of the app using various methods.
+
+This project includes the following:
 
  * Uploading and displaying media/static files
  * Django admin
