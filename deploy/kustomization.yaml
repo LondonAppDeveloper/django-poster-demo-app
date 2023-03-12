@@ -1,0 +1,7 @@
+secretGenerator:
+  - name: postgres-password
+    literals:
+      - password=supersecretpassword
+resources:
+  - postgres-deployment.yaml
+  # - django-deployment.yaml
